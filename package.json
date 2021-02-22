@@ -24,7 +24,7 @@
     "express-session": "^1.17.0",
     "jodit": "^3.4.15",
     "jquery": "^3.4.1",
-    "jquery-validation": "^1.19.1",
+    "jquery-validation": "^1.19.3",
     "jsonfile": "^5.0.0",
     "mocha": "^6.1.2",
     "moment": "^2.24.0",
